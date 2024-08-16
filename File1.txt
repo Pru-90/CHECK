@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 This is File1.txt , i am in new
+>>>>>>> origin/main
