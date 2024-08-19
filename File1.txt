@@ -1,1 +1,1 @@
-This is File1.txt , i am in new in the GIT --------------
+This is File1.txt , i am in main branch , trying to conflict my code
